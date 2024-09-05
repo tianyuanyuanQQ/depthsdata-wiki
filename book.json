@@ -50,7 +50,7 @@
             ]
         },
         "github-buttons": {
-            "repo": "zhczhc1990/depthsdata-wiki",
+            "repo": "tianyuanyuanQQ/depthsdata-wiki",
             "types": [
                 "star"
             ],
@@ -71,7 +71,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhczhc1990/depthsdata-wiki/blob/master",
+            "base": "https://github.com/tianyuanyuanQQ/depthsdata-wiki/blob/master",
             "label": "回到迪普思官网"
         },
         "favicon": {
